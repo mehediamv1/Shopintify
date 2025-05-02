@@ -30,7 +30,7 @@ sections:
           altText: Pricing plan 1
         actions:
           - type: Button
-            label: Get started
+            label: Get started Free
             url: /
             icon: arrowRight
             iconPosition: right
