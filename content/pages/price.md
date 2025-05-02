@@ -24,7 +24,6 @@ sections:
           - Upto 10 products❗
           - 'Basic dashboard '
           - 'Community Support '
-          - ''
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
