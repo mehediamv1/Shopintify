@@ -21,7 +21,7 @@ sections:
           accusantium doloremque.
         features:
           - 1 store
-          - Feature two
+          - Upto 10 products❗
           - Feature three
           - Feature four
         image:
