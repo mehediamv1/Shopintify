@@ -15,7 +15,7 @@ sections:
       - type: PricingPlan
         title: Developers
         price: Free
-        details: 'Perfect For '
+        details: Perfect For testing your store
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
