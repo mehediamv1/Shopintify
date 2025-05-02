@@ -113,6 +113,8 @@ sections:
     styles:
       self:
         justifyContent: center
+        padding:
+          - pb-1
       subtitle:
         textAlign: center
 slug: price
