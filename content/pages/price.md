@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Start your own Online Store with ease.
+    subtitle: Start your own Online Store with ease.No coding needed‼️
     plans:
       - type: PricingPlan
         title: Developers
