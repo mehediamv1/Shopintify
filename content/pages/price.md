@@ -22,7 +22,7 @@ sections:
         features:
           - 1 store
           - Upto 10 products❗
-          - Feature three
+          - 'Basic dashboard '
           - Feature four
         image:
           type: ImageBlock
