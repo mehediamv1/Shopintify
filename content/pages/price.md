@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: ''
+    subtitle: Start your
     plans:
       - type: PricingPlan
         title: Developers
