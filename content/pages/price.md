@@ -20,7 +20,7 @@ sections:
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
         features:
-          - ''
+          - 1 store
           - Feature two
           - Feature three
           - Feature four
